@@ -1,0 +1,10 @@
+1 Avatar 10:20 Fantasia
+2 Avengers 11:30 Accion
+3 Ted 12:00 Comedia
+4 Shrek 12:30 Animacion
+5 Megamente 9:00 Animacion
+6 Intensamente 8:00 Animacion
+7 Transformers 8:00 Accion
+8 Donde esta el fantasma $4:20 Comedia
+9 Pitufos 14:00 Animacion
+10 Titanic 12:00 Suspenso
